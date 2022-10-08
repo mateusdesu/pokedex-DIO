@@ -4,4 +4,4 @@ Projeto de Pokédex realizado durante a formação JavaScript Developer pela DIO
 
 ![Print da página](assets/imgs/pokeprint.png)
 
-Link para acessar: [https://mateusdesu.github.io/pokedex-DIO/](https://mateusdesu.github.io/pokedex-DIO/)
+Link para acessar: [https://profound-ganache-24c7c4.netlify.app/)
